@@ -1,0 +1,14 @@
+export { default as FilmIcon } from "./Film";
+export { default as FilterIcon } from "./Filter";
+export { default as SearchIcon } from "./Search";
+export { default as ArrowRightIcon } from "./ArrowRight";
+export { default as StarIcon } from "./Star";
+export { default as SmileIcon } from "./Smile";
+export { default as PopcornIcon } from "./Popcorn";
+export { default as HeartIcon } from "./Heart";
+export { default as BriefcaseIcon } from "./BriefCase";
+export { default as BoldIcon } from "./Bold";
+export { default as AwardIcon } from "./Award";
+export { default as UsersIcon } from "./Users";
+export { default as ClockIcon } from "./Clock";
+export { default as CalendarIcon } from "./Calendar";
